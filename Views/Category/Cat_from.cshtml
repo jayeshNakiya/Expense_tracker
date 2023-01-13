@@ -1,0 +1,25 @@
+﻿@*
+@model ExpanseTrackerspro.Models.ExpenseReport
+ src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/js/bootstrap-datepicker.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.8.0/css/bootstrap-datepicker.css" rel="stylesheet">
+
+<div>
+    <div class="row">
+        <div class="col-md-8">
+            <form id="expenseForm">
+                <input type="hidden" asp-for="CatId" />
+                <div class="form-group">
+                    <label asp-for="CatId" class="control-label"></label>
+                    <input asp-for="CatId" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="CatName" class="control-label"></label>
+                    <input asp-for="CatName" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <button type="button" id="btnonSubmit" class="btn btn-block btn-info">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>*@
