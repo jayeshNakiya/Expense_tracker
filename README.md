@@ -48,7 +48,7 @@ step 12:-Run a project
 
 
 
-#THIS IS PERSONAL EXPANSE MANAGER
+#THIS IS PERSONAL EXPANSE MANAGER DASHBOARD
 
 
 
@@ -67,6 +67,8 @@ step 12:-Run a project
 
 
 ![Screenshot 2023-01-13 at 22-37-09 Expense Manager - Test1](https://user-images.githubusercontent.com/102232904/212599374-be3a5268-d77e-4056-a8a3-ab699d6472c1.png)
+
+
 
 
 
@@ -90,7 +92,7 @@ step 12:-Run a project
 
 
 
-#FINF THE USER EXPANSE
+#FIND THE USER EXPANSE
 
 
 
